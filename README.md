@@ -1,12 +1,13 @@
 # Git DevOps Workflow Project
 
+
 ## 📌 Project Overview
 
 This project demonstrates the implementation of Git version control best practices in a DevOps workflow. It covers repository management, branching strategies, commits, pull requests, tags, and documentation.
 
 The project was created as part of a DevOps internship task to gain hands-on experience with collaborative development workflows and source code management using Git and GitHub.
 
----
+
 
 ## 🎯 Objectives
 
@@ -112,3 +113,4 @@ Through this project, I learned:
 **Ishita Gupta**
 
 Aspiring Cloud & DevOps Engineer passionate about automation, cloud technologies, and modern DevOps practices.
+
