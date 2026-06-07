@@ -139,7 +139,27 @@ Through this project, I learned:
 * Documentation management
 * Basic DevOps collaboration workflow
 
+---
 
+## 📸 Screenshots
+
+### Branch Management
+
+![Branch Management](Screenshots/Screenshot%202026-06-04%20005156.png)
+
+### Pull Requests
+
+![Pull Requests](Screenshots/Screenshot%202026-06-04%20005216.png)
+
+### Commit History
+
+![Commit History](Screenshots/Screenshot%202026-06-04%20005234.png)
+
+### Release Tag
+
+![Release Tag](Screenshots/Screenshot%202026-06-04%20005246.png)
+
+---
 
 ## 👩‍💻 Author
 
