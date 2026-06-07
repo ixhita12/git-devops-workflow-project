@@ -145,19 +145,23 @@ Through this project, I learned:
 
 ### Branch Management
 
-![Branch Management](Screenshots/Screenshot%202026-06-04%20005156.png)
+![Branch Management](Screenshots/Screenshot%202026-06-04%20182320.png)
 
 ### Pull Requests
 
-![Pull Requests](Screenshots/Screenshot%202026-06-04%20005216.png)
+![Pull Requests](Screenshots/Screenshot%202026-06-04%20182410.png)
 
 ### Commit History
 
-![Commit History](Screenshots/Screenshot%202026-06-04%20005234.png)
+![Commit History](Screenshots/Screenshot%202026-06-04%20182455.png)
 
 ### Release Tag
 
-![Release Tag](Screenshots/Screenshot%202026-06-04%20005246.png)
+![Release Tag](Screenshots/Screenshot%202026-06-04%20182540.png)
+
+### Additional Project View
+
+![Project View](Screenshots/Screenshot%202026-06-04%20182607.png)
 
 ---
 
