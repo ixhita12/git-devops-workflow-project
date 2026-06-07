@@ -18,7 +18,7 @@ The project was created as part of a DevOps internship task to gain hands-on exp
 * Implement version tagging
 * Maintain project documentation using Markdown
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -26,7 +26,7 @@ The project was created as part of a DevOps internship task to gain hands-on exp
 * GitHub
 * Markdown
 
----
+
 
 ## 🌿 Branching Strategy
 
@@ -38,7 +38,7 @@ The following branches were used in this project:
 
 This branching model helps organize development work and follows common DevOps practices.
 
----
+
 
 ## 📋 Tasks Performed
 
@@ -73,7 +73,7 @@ This branching model helps organize development work and follows common DevOps p
 * Used meaningful commit messages
 * Created version tag `v1.0`
 
----
+
 
 ## 🚀 Git Workflow Followed
 
@@ -86,13 +86,46 @@ This branching model helps organize development work and follows common DevOps p
 7. Merged updates into the main workflow
 8. Created version tag `v1.0`
 
----
+
+## 📂 Project Structure
+
+```text
+git-devops-workflow-project
+│
+├── README.md
+├── .gitignore
+│
+├── Screenshots/
+│
+├── docs/
+│   ├── workflow.md
+│   └── branching-strategy.md
+│
+└── releases/
+    └── v1.0-release-notes.md
+```
+
+
+
+## 📖 Additional Documentation
+
+### Workflow Documentation
+
+* docs/workflow.md
+
+### Branching Strategy
+
+* docs/branching-strategy.md
+
+### Release Notes
+
+* releases/v1.0-release-notes.md
+
 
 ## 🏷️ Version
 
 Current Release: **v1.0**
 
----
 
 ## 📚 Learning Outcomes
 
@@ -106,7 +139,7 @@ Through this project, I learned:
 * Documentation management
 * Basic DevOps collaboration workflow
 
----
+
 
 ## 👩‍💻 Author
 
